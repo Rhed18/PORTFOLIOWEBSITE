@@ -34,15 +34,6 @@ If you're interested in chatting about projects, collaborations, or just discuss
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
 - **Portfolio Website**: [Your Portfolio Website](http://yourportfolio.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourname)
+- **GitHub**: [Your GitHub Profile](https://rhed18.github.io/PortfolioWebsite2024/)
 
----
-
-## Brewed with Passion
-
-This repository and website represent my dedication to learning, growing, and sharing my journey as a developer. Much like a great coffee blend, it is a mix of knowledge, creativity, and passion. Thanks for visiting, and I hope you’ve enjoyed your cup of JavaScript!
-
----
-
-**Disclaimer:** This repository and website are designed for educational purposes as part of my web system projects. All content is created and curated with the intention of fulfilling academic requirements and demonstrating my development skills.
 
