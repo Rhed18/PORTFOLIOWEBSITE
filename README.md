@@ -31,9 +31,8 @@ This repository is part of my educational work and fulfills the project requirem
 If you're interested in chatting about projects, collaborations, or just discussing the latest trends in tech, feel free to reach out! I'm always open to learning from others, and there’s no better way to connect than over a warm cup of coffee!
 
 ### Contact Information:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
-- **Portfolio Website**: [Your Portfolio Website](http://yourportfolio.com)
-- **GitHub**: [Your GitHub Profile](https://rhed18.github.io/PortfolioWebsite2024/)
+- **Email**: [mildredcollamatlacbayo18@gmail.com](mailto:mildredcollamatlacbayo18@gmail.com)
+- **Facebook**: [Mildred C. Lacbayo](https://www.facebook.com/mildred.lacbayo.98)
+- **GitHub**: [Rhed18](https://rhed18.github.io/PortfolioWebsite2024/)
 
 
