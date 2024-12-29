@@ -23,7 +23,6 @@ This portfolio website is designed for educational purposes and serves as a proj
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-### Contact Information:
 - **Email**: [mildredcollamatlacbayo18@gmail.com](mailto:mildredcollamatlacbayo18@gmail.com)
 - **Facebook**: [Mildred C. Lacbayo](https://www.facebook.com/mildred.lacbayo.98)
 - **GitHub**: [Rhed18](https://rhed18.github.io/PortfolioWebsite2024/)
