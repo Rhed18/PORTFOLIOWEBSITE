@@ -758,6 +758,52 @@ section .container {
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
   color: #d1c591;
 }
+/*--------------------------------------------------------------
+# Services - Coffee Theme (Minimalist for Education Section)
+--------------------------------------------------------------*/
+
+.services .timeline {
+  position: relative;
+  padding-left: 30px;
+  border-left: 2px solid #6d4c41;
+}
+
+.services .timeline-item {
+  margin-bottom: 40px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.services .timeline-item h4 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff; /* White for contrast */
+  margin-bottom: 10px;
+}
+
+.services .timeline-item h5 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffcc80; /* Coffee highlight */
+  margin-bottom: 10px;
+}
+
+.services .timeline-item p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #d7ccc8; /* Subtle coffee cream text */
+  margin: 0;
+}
+
+.services .timeline-item[data-aos] {
+  transition: all 0.3s ease-in-out;
+}
+
+.services .timeline-item:hover {
+  background: #4e342e; /* Darker coffee brown */
+  padding: 20px;
+  border-left: 4px solid #ffcc80; /* Highlighted border on hover */
+}
 
 /*--------------------------------------------------------------
 # Portfolio
@@ -923,7 +969,7 @@ section .container {
 
 .skill-box {
   margin-bottom: 20px;
-  background: #4e342e; /* Dark coffee background */
+  background: #271a12;
   padding: 15px;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
@@ -932,7 +978,7 @@ section .container {
 .skill-box h4 {
   margin: 0 0 10px;
   font-size: 18px;
-  color: #ffcc80; /* Caramel color for headings */
+  color: white; 
   font-weight: 600;
 }
 
@@ -953,7 +999,7 @@ section .container {
 
 .skill-bar .progress {
   height: 10px;
-  background: #ffcc80; /* Caramel progress fill */
+  background: white; 
   border-radius: 5px;
   transition: width 0.5s ease-in-out;
 }
