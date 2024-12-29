@@ -35,4 +35,6 @@ If you're interested in chatting about projects, collaborations, or just discuss
 - **Facebook**: [Mildred C. Lacbayo](https://www.facebook.com/mildred.lacbayo.98)
 - **GitHub**: [Rhed18](https://rhed18.github.io/PortfolioWebsite2024/)
 
+# References 👏🏻
 
+- Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://rajaprerak.github.io/).
