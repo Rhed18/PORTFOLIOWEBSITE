@@ -1008,31 +1008,31 @@ section .container {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: white; /* Light beige for text */
+  color: white; 
   padding: 20px;
   width: 100%;
-  background: #3b2e2a; /* Dark coffee brown */
+  background: #3b2e2a; 
 }
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: white; /* Wheat color for icons */
+  color: white; 
   border-radius: 50%;
   padding: 14px;
   float: left;
-  background: rgba(255, 255, 255, 0.15); /* Subtle highlight */
+  background: rgba(255, 255, 255, 0.15); 
 }
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: white; /* Light beige for headings */
+  color: white; 
   font-weight: 700;
   margin: 10px 0 8px 68px;
 }
 
 .contact .info-box p {
   padding: 0;
-  color: #e8e4d9; /* Soft light brown for text */
+  color: #e8e4d9;
   line-height: 24px;
   font-size: 14px;
   margin: 0 0 0 68px;
@@ -1046,25 +1046,25 @@ section .container {
 .contact .info-box .social-links a {
   font-size: 18px;
   display: inline-block;
-  color: #f5f5dc; /* Light beige for icons */
+  color: #f5f5dc;
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
 }
 
 .contact .info-box .social-links a:hover {
-  color: #3b2e2a; /* Dark coffee brown on hover */
+  color: #3b2e2a; 
 }
 
 .contact .php-email-form {
   padding: 30px;
-  background: #3b2e2a; /* Dark coffee brown */
+  background: #3b2e2a; 
   border-radius: 8px;
 }
 
 .contact .php-email-form .validate {
   display: none;
-  color: #ed3c0d; /* Bright red for validation errors */
+  color: #ed3c0d;
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
@@ -1072,8 +1072,8 @@ section .container {
 
 .contact .php-email-form .error-message {
   display: none;
-  background: #ed3c0d; /* Bright red for error background */
-  color: #f5f5dc; /* Light beige text */
+  background: #ed3c0d; 
+  color: #f5f5dc; 
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1082,8 +1082,8 @@ section .container {
 
 .contact .php-email-form .sent-message {
   display: none;
-  background: #4caf50; /* Soft green for success background */
-  color: #f5f5dc; /* Light beige text */
+  background: #4caf50; 
+  color: #f5f5dc; 
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1092,10 +1092,10 @@ section .container {
 
 .contact .php-email-form .loading {
   display: none;
-  background: rgba(255, 255, 255, 0.1); /* Subtle highlight */
+  background: rgba(255, 255, 255, 0.1); 
   text-align: center;
   padding: 15px;
-  color: #f5f5dc; /* Light beige text */
+  color: #f5f5dc; 
 }
 
 .contact .php-email-form .loading:before {
@@ -1105,8 +1105,8 @@ section .container {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #3b2e2a; /* Dark coffee */
-  border-top-color: #f5f5dc; /* Light beige */
+  border: 3px solid #3b2e2a; 
+  border-top-color: #f5f5dc;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
@@ -1116,20 +1116,20 @@ section .container {
   border-radius: 4px;
   box-shadow: none;
   font-size: 14px;
-  background: #52423c; /* Medium coffee brown */
-  border: 1px solid #3b2e2a; /* Dark coffee border */
-  color: #f5f5dc; /* Light beige text */
+  background: #52423c; 
+  border: 1px solid #3b2e2a; 
+  color: #f5f5dc;
   transition: 0.3s;
 }
 
 .contact .php-email-form input:focus, 
 .contact .php-email-form textarea:focus {
-  background-color: #66544d; /* Slightly lighter brown for focus */
+  background-color: #66544d; 
 }
 
 .contact .php-email-form input::placeholder, 
 .contact .php-email-form textarea::placeholder {
-  color: rgba(245, 245, 220, 0.7); /* Softer beige for placeholders */
+  color: rgba(245, 245, 220, 0.7); 
 }
 
 .contact .php-email-form button[type="submit"] {
@@ -1142,7 +1142,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #3b2e2a; /* Green hover for the button */
+  background: #3b2e2a; 
 }
 
 /*--------------------------------------------------------------
