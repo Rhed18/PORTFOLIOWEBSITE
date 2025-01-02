@@ -144,3 +144,22 @@
   });
 
 })(jQuery);
+
+
+<!-- JavaScript to handle form submission and show success message -->
+<script>
+  document.getElementById('contact-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the default form submission
+
+    // Display the success message
+    document.getElementById('success-message').style.display = 'block';
+
+    // Optionally, you can hide the success message after a few seconds
+    setTimeout(function() {
+      document.getElementById('success-message').style.display = 'none';
+    }, 5000); // Hide after 5 seconds
+
+    // Optionally, reset the form fields
+    document.getElementById('contact-form').reset();
+  });
+</script>
