@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #9e7f25;
+  color: #271a12;
   text-decoration: none;
 }
 
@@ -336,10 +336,10 @@ section .container {
 }
 
 .section-title h2 {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 500;
   padding: 0;
-  line-height: 1px;
+  line-height: 4px;
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -408,7 +408,6 @@ section .container {
   padding: 20px;
   border-left: 4px solid #b4978e;
   background-color: #6d4c41; 
-  border-radius: 8px;
   position: relative;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -467,41 +466,6 @@ section .container {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-}
-
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
-.skills .progress {
-  height: 50px;
-  display: block;
-  background: none;
-}
-
-.skills .progress .skill {
-  padding: 0;
-  margin: 0 0 6px 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #fff;
-}
-
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-
-.skills .progress-bar-wrap {
-  background: rgba(255, 255, 255, 0.15);
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: .9s;
-  background-color: #1c7d32;
 }
 
 /*--------------------------------------------------------------
@@ -717,7 +681,6 @@ section .container {
   height: 100%;
   width: 100%;
   background: rgba(255, 255, 255, 0.15);
-  border-radius: 5px;
   transition: all .3s ease-out 0s;
   transform: translateZ(-1px);
 }
@@ -759,7 +722,7 @@ section .container {
   color: #d1c591;
 }
 /*--------------------------------------------------------------
-# Services - Coffee Theme (Minimalist for Education Section)
+# Services
 --------------------------------------------------------------*/
 
 .services .timeline {
@@ -791,7 +754,7 @@ section .container {
 .services .timeline-item p {
   font-size: 14px;
   line-height: 24px;
-  color: #d7ccc8; /* Subtle coffee cream text */
+  color: #d7ccc8;
   margin: 0;
 }
 
@@ -800,9 +763,9 @@ section .container {
 }
 
 .services .timeline-item:hover {
-  background: #4e342e; /* Darker coffee brown */
+  background: #4e342e; 
   padding: 20px;
-  border-left: 4px solid #ffcc80; /* Highlighted border on hover */
+  border-left: 4px solid #ffcc80; 
 }
 
 /*--------------------------------------------------------------
@@ -968,10 +931,9 @@ section .container {
 --------------------------------------------------------------*/
 
 .skill-box {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   background: #271a12;
-  padding: 15px;
-  border-radius: 8px;
+  padding: 35px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
 
@@ -985,14 +947,14 @@ section .container {
 .skill-box .percent {
   float: right;
   font-size: 16px;
-  color: #bcaaa4; /* Muted coffee tone */
+  color: #bcaaa4; 
 }
 
 .skill-bar {
   position: relative;
   width: 100%;
   height: 10px;
-  background: #6d4c41; /* Coffee brown background for bar */
+  background: #6d4c41; 
   border-radius: 5px;
   overflow: hidden;
 }
@@ -1172,4 +1134,30 @@ section .container {
     right: 0;
     transform: translateX(-50%);
   }
+}
+
+/*--------------------------------------------------------------
+# contact form
+--------------------------------------------------------------*/
+.contact-container{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.contact-center{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 20px;
+}
+.contact-inputs{
+  width: 400px;
+  height: 50px;
+  border: none;
+  outline: none;
+  padding-left: 25px;
+  font-weight: 500;
+  color: #4e342e;
+  border-radius: 50px;
 }
